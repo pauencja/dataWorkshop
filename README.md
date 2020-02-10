@@ -1,2 +1,2 @@
-# dataWorkshop
-basix
+# dataWorkshop - Projekt Transformacja
+Podstawy podstaw
